@@ -1,6 +1,7 @@
-# Exercise 2
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
+# Exercise 2s
 
-In your `README.md` document, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor name.
-
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+| Course Number |     Course Title     |   Instructor   |
+|:-------------:|:-------------------- :|:--------------:|
+|    **CSE 143**    |  _COMPUTER PRGRMNG II_ |  Stuart Reges  |
+|    **INFO 201**   | _DATA SCI FOUNDATIONS_ | David G Hendry |
+|    **MATH 207**   |   _INTRO TO DIFF EQ_   |  Don Marshall  |
